@@ -109,18 +109,6 @@ nav ul li a{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <! -- Skills --> 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Rancho&family=Water+Brush&display=swap');
 
@@ -209,8 +197,6 @@ nav ul li a{
     }
 }
 
-
-
 .skill_bar .bar .Java{
     width: 80%;
     animation: Java 2s;
@@ -247,12 +233,6 @@ nav ul li a{
         width: 75%;
     }
 }
-
-
-
-
-
-
 
 .row{
   margin-left: 0px;
